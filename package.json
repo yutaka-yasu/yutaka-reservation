@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@netlify/plugin-nextjs": "^5.11.3",
+    "date-fns": "^4.1.0"
+  }
+}
